@@ -6,5 +6,7 @@ class ApplicationController < ActionController::Base
     render html: "hola, mundo!"
   end
 
-
+  def quibo
+    render html: "quibo mi bro, soy eluis te salido desde rails mi bro"
+  end
 end
