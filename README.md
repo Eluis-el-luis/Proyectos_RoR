@@ -1,11 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Proyecto de Ruby, empezamos con rails
 
-Things you may want to cover:
+* Puma version: 7.0.4 ("Romantic Warrior")
+* Ruby version: ruby 3.3.5 (2024-09-03 revision ef084cc8f4) [x86_64-linux]
 
-* Ruby version
+Mas adelante se estaran agregando la demas informacion
+                                            Luis Meneses
 
 * System dependencies
 
